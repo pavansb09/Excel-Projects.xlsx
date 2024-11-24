@@ -23,7 +23,7 @@ This project showcases my skills in Excel, focusing on data cleaning, sorting, f
 ---
 
 ## 📂 File Information
-- **`Vrinda Store Data Anlysis.xlsx`**: Contains the main data analysis with all features implemented.
+- **`Vrinda Store Data Anlysis(Report).xlsx`**: Contains the main data analysis with all features implemented.
 - **`Vrinda Store Data Set`**: The dataset used in this project.
 - **`Sample SuperStore Anlysis(Report).xlsx`**: Contains the main data analysis with all features implemented.
 - **`Sample SuperStore Data Set`**: The dataset used in this project.
